@@ -1,5 +1,5 @@
-# Scanner-for-Cryptocurrency
-Recognize candlestick patterns in cryptocurrency markets. 
+# Stock Market Scanner
+Recognize candlestick patterns in stock markets. 
 
 # Disclaimer
-This project is solely for educational purposes and is not intended to provide financial advice. The cryptocurrency market is extremely volatile; trade at your own risk.
+Not financial advice. Please trade at your own risk.
