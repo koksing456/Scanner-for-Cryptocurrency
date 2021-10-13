@@ -1,4 +1,4 @@
-# Scanner-for-Stocks
+# Stock market scanner
 Recognize candlestick patterns in cryptocurrency markets. 
 
 # Disclaimer
